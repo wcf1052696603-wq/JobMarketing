@@ -1,0 +1,11 @@
+# 登录态与本地数据不入库
+data/
+outputs/
+.workbuddy/
+*.log
+config.json
+
+__pycache__/
+*.py[cod]
+venv/
+.venv/
